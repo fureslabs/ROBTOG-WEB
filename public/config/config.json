@@ -14,5 +14,7 @@
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/robtog",
-  "SHOW_BACKGROUND": true
+  "SHOW_BACKGROUND": true,
+  "TWITTER": "Twitter",
+  "TWITTER_LINK": "https://twitter.com/fureslabs"
 }
