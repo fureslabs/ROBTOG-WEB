@@ -12,7 +12,6 @@ export const StyledButton = styled.button`
   padding: 10px;
   border-radius: 50px;
   border: none;
-  background-color: var(--secondary);
   padding: 10px;
   font-weight: bold;
   color: var(--secondary-text);
