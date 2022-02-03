@@ -1,20 +1,23 @@
 {
-  "CONTRACT_ADDRESS": "0x6876b3e94da19aa6c32df1cedb954969da043904",
-  "SCAN_LINK": "https://polygonscan.com/token/0x6876b3e94da19aa6c32df1cedb954969da043904",
+  "CONTRACT_ADDRESS": "0x1c55eb453D4301fC422D0a8787FBA667740E7239",
+  "SCAN_LINK": "https://polygonscan.com/token/0x1c55eb453D4301fC422D0a8787FBA667740E7239",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "ROBTOG",
-  "SYMBOL": "ROBTOG",
-  "MAX_SUPPLY": 555,
-  "WEI_COST": 16500000000000000000,
-  "DISPLAY_COST": 16.5,
+  "NFT_NAME": "LILXO",
+  "SYMBOL": "LilXO",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/robtog",
-  "SHOW_BACKGROUND": true,
+  "MARKETPLACE_LINK": "https://opensea.io/collection/lilxo",
+  "SHOW_BACKGROUND": false,
+  "INSTAGRAM": "Instagram",
+  "INSTAGRAM_LINK": "https://www.instagram.com/lilxonft/",
   "TWITTER": "Twitter",
-  "TWITTER_LINK": "https://twitter.com/fureslabs"
+  "TWITTER_LINK": "https://twitter.com/fureslabs/"  
+
 }
